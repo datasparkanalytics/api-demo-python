@@ -6,7 +6,7 @@ This repository contains three Python codes to get you started using DataSpark M
 - [requests](http://docs.python-requests.org/en/master/) package
 - Text editor of your choice to edit the code (e.g. [Sublime Text](https://www.sublimetext.com/))
 
-## Getting your DataStreamX Atuhorization Tokern
+## Getting your DataStreamX Authorization Token
 1. Register in DataStreamX.com 
 2. Subscribe to DataSpark Mobility Intelligence API
 3. Click Access Subscription button on the top right area
